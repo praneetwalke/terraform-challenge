@@ -66,7 +66,7 @@ terraform apply
 ### 4. Access the Web Server
 Once the infrastructure is deployed, you can access the web server by opening the public IP address in your browser:
 ```
-http://<web_instance_public_ip>
+http://3.89.125.29
 ```
 
 
